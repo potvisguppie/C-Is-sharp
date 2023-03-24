@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\bin\Debug\FIBONAKKI.exe.config
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\bin\Debug\FIBONAKKI.exe
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\bin\Debug\FIBONAKKI.pdb
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\obj\Debug\FIBONAKKI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\obj\Debug\FIBONAKKI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\obj\Debug\FIBONAKKI.exe
+C:\Users\Admin\source\repos\FIBONAKKI\FIBONAKKI\obj\Debug\FIBONAKKI.pdb

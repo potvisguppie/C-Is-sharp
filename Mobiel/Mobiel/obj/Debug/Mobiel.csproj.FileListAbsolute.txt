@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Mobiel\Mobiel\obj\Debug\Mobiel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Mobiel\Mobiel\obj\Debug\Mobiel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Mobiel\Mobiel\bin\Debug\Mobiel.exe.config
+C:\Users\Admin\source\repos\Mobiel\Mobiel\bin\Debug\Mobiel.exe
+C:\Users\Admin\source\repos\Mobiel\Mobiel\bin\Debug\Mobiel.pdb
+C:\Users\Admin\source\repos\Mobiel\Mobiel\obj\Debug\Mobiel.exe
+C:\Users\Admin\source\repos\Mobiel\Mobiel\obj\Debug\Mobiel.pdb
